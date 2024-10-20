@@ -35,4 +35,6 @@ The script assumes a CSV file named `Netflix_Movie_Recommendation.csv` exists in
 
 This implementation provides a more advanced approach to movie recommendation by incorporating collaborative filtering. You can explore other recommendation algorithms and techniques to further enhance the system's performance.
 
+Additionally, you can replace the `Netflix_Movie_Recommendation.csv` dataset with `BigBasket_Cart.csv` to adapt the system for product recommendations in a grocery store context. You'll need to make necessary modifications to the code, such as changing the column names and interpreting the data accordingly.
+
 Feel free to explore the code, modify it, and experiment with different functionalities!
